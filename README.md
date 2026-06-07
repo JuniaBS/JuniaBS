@@ -79,14 +79,6 @@ Projeto desenvolvido com Python para análise de dados e apoio à tomada de deci
 
 ---
 
-## Estatísticas GitHub
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JuniaBS&show_icons=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniaBS&layout=compact" />
-</p>
-
----
 
 ## Conecte-se Comigo
 
