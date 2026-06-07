@@ -1,16 +1,103 @@
-## Hi there 👋
+# Olá, eu sou a Júnia Sousa 👋
 
-<!--
-**JuniaBS/JuniaBS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedora Back-end em formação
 
-Here are some ideas to get you started:
+☁️ AWS Certified Cloud Practitioner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+
+🚀 Apaixonada por desenvolvimento back-end, arquitetura de software e computação em nuvem.
+
+---
+
+## Sobre Mim
+
+Atualmente atuo como Estagiária de Desenvolvimento Back-end na Serasa Experian, contribuindo para o desenvolvimento e manutenção de APIs e serviços utilizando PHP, MySQL e Docker em ambiente ágil.
+
+Sou estudante de Análise e Desenvolvimento de Sistemas e direciono minha carreira para desenvolvimento back-end e cloud computing, buscando aprofundar conhecimentos em arquitetura de sistemas, desenvolvimento de APIs, bancos de dados e serviços AWS.
+
+Tenho como objetivo construir soluções escaláveis, seguras e bem estruturadas, aplicando boas práticas de engenharia de software e desenvolvimento moderno.
+
+---
+
+## Tecnologias
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,php,python,mysql,docker,git,aws" />
+</p>
+
+---
+
+## Certificações
+
+🏆 AWS Certified Cloud Practitioner
+
+---
+
+## Áreas de Interesse
+
+* Desenvolvimento Back-end
+* APIs REST
+* Arquitetura de Software
+* Computação em Nuvem (AWS)
+* Bancos de Dados
+* Testes Automatizados
+
+---
+
+## Atualmente Estudando
+
+☕ Java
+
+☁️ AWS Developer Associate
+
+🏗️ Arquitetura de Software
+
+🔗 Desenvolvimento de APIs
+
+🐳 Docker
+
+---
+
+## Projetos em Destaque
+
+### ☁️ AWS Labs
+
+Coleção de laboratórios práticos envolvendo serviços AWS, identidade e acesso (IAM), segurança, armazenamento e recursos utilizados em ambientes cloud.
+
+### 🎬 Movie Catalog PHP
+
+Aplicação desenvolvida para praticar conceitos de desenvolvimento back-end, organização de código e manipulação de dados utilizando PHP.
+
+### 🧪 Testes Automatizados com PHPUnit
+
+Projetos voltados para testes unitários, mocks, tratamento de exceções e boas práticas de qualidade de software.
+
+### 💳 Análise de Risco de Crédito
+
+Projeto desenvolvido com Python para análise de dados e apoio à tomada de decisão em cenários de crédito.
+
+---
+
+## Estatísticas GitHub
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JuniaBS&show_icons=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniaBS&layout=compact" />
+</p>
+
+---
+
+## Conecte-se Comigo
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/junia-sousa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+📧 **[junia.sousa@gmail.com](mailto:junia.sousa@gmail.com)**
+
+---
+
+Sempre aberta a aprender novas tecnologias, compartilhar conhecimento e desenvolver soluções que gerem impacto.
