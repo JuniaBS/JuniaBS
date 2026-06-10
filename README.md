@@ -6,7 +6,7 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
-🚀 Apaixonada por desenvolvimento back-end, arquitetura de software e computação em nuvem.
+🚀 Interessada em desenvolvimento de software, arquitetura de sistemas, computação em nuvem e tecnologias orientadas por dados.
 
 ---
 
@@ -80,7 +80,6 @@ Projetos voltados para testes unitários, mocks, tratamento de exceções e boas
 Projeto desenvolvido com Python para análise de dados e apoio à tomada de decisão em cenários de crédito.
 
 ---
-
 
 ## Conecte-se Comigo
 
