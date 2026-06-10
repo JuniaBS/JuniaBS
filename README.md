@@ -14,9 +14,9 @@
 
 Atualmente atuo como Estagiária de Desenvolvimento Back-end na Serasa Experian, contribuindo para o desenvolvimento e manutenção de APIs e serviços utilizando PHP, MySQL e Docker em ambiente ágil.
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e direciono minha carreira para desenvolvimento back-end e cloud computing, buscando aprofundar conhecimentos em arquitetura de sistemas, desenvolvimento de APIs, bancos de dados e serviços AWS.
+Sou estudante de Análise e Desenvolvimento de Sistemas e direciono minha carreira para desenvolvimento de software, cloud computing e tecnologias orientadas por dados, buscando aprofundar conhecimentos em arquitetura de sistemas, desenvolvimento de APIs, bancos de dados, Python e serviços AWS.
 
-Tenho como objetivo construir soluções escaláveis, seguras e bem estruturadas, aplicando boas práticas de engenharia de software e desenvolvimento moderno.
+Tenho como objetivo construir soluções escaláveis, seguras e bem estruturadas, aplicando boas práticas de engenharia de software, automação e desenvolvimento moderno, além de acompanhar a evolução de tecnologias relacionadas a dados e Inteligência Artificial.
 
 ---
 
@@ -47,9 +47,11 @@ Tenho como objetivo construir soluções escaláveis, seguras e bem estruturadas
 
 ## Atualmente Estudando
 
-☕ Java
+☁️ AWS (Cloud Computing e Serviços Serverless)
 
-☁️ AWS Developer Associate
+🐍 Python
+
+🤖 Inteligência Artificial
 
 🏗️ Arquitetura de Software
 
