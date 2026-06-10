@@ -37,21 +37,21 @@ Tenho como objetivo construir soluções escaláveis, seguras e bem estruturadas
 ## Áreas de Interesse
 
 * Desenvolvimento Back-end
-* APIs REST
-* Arquitetura de Software
+* Engenharia de Dados
+* APIs e Integração de Sistemas
 * Computação em Nuvem (AWS)
-* Bancos de Dados
-* Testes Automatizados
+* Arquitetura de Software
+* Inteligência Artificial
 
 ---
 
 ## Atualmente Estudando
 
-☁️ AWS (Cloud Computing e Serviços Serverless)
-
 🐍 Python
 
 🤖 Inteligência Artificial
+
+☁️ AWS (Cloud Computing e Serviços Serverless)
 
 🏗️ Arquitetura de Software
 
